@@ -1,0 +1,62 @@
+starting score:
+Precision = 0.806862   Recall = 0.871320   F-Score = 0.837853
+
+score:
+Precision = 0.889045   Recall = 0.932613   F-Score = 0.910308
+
+score:
+Precision = 0.888755   Recall = 0.936840   F-Score = 0.912164
+
+score:
+Precision = 0.892201   Recall = 0.937779   F-Score = 0.914422
+
+score:
+Precision = 0.907518   Recall = 0.936650   F-Score = 0.921854
+
+score:
+Precision = 0.897142   Recall = 0.936884   F-Score = 0.916583
+
+score:
+Precision = 0.888424   Recall = 0.935498   F-Score = 0.911354
+
+score:
+Precision = 0.906163   Recall = 0.934917   F-Score = 0.920315
+
+score:
+Precision = 0.889919   Recall = 0.935241   F-Score = 0.912017
+
+score:
+Precision = 0.900044   Recall = 0.934380   F-Score = 0.916891
+
+score:
+Precision = 0.871566   Recall = 0.928242   F-Score = 0.899011
+
+score:
+Precision = 0.900608   Recall = 0.934592   F-Score = 0.917285
+
+score:
+Precision = 0.881845   Recall = 0.928186   F-Score = 0.904422
+
+score:
+Precision = 0.893387   Recall = 0.936918   F-Score = 0.914635
+
+score:
+Precision = 0.872613   Recall = 0.928420   F-Score = 0.899652
+
+score:
+Precision = 0.886189   Recall = 0.935107   F-Score = 0.909991
+
+score:
+Precision = 0.858727   Recall = 0.921432   F-Score = 0.888975
+
+score:
+Precision = 0.893589   Recall = 0.934402   F-Score = 0.913540
+
+score:
+Precision = 0.866865   Recall = 0.925290   F-Score = 0.895125
+
+score:
+Precision = 0.894624   Recall = 0.935654   F-Score = 0.914679
+
+score:
+Precision = 0.877960   Recall = 0.925804   F-Score = 0.901247

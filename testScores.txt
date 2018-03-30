@@ -1,0 +1,65 @@
+starting score:
+Precision = 0.806862   Recall = 0.871320   F-Score = 0.837853
+starting score (use Viterbi algorithm):
+Precision = 0.811740   Recall = 0.831080   F-Score = 0.821296
+
+score:
+Precision = 0.889045   Recall = 0.932613   F-Score = 0.910308
+score (use Viterbi algorithm):
+Precision = 0.925785   Recall = 0.939076   F-Score = 0.932383
+
+score:
+Precision = 0.888755   Recall = 0.936840   F-Score = 0.912164
+score (use Viterbi algorithm):
+Precision = 0.930187   Recall = 0.941055   F-Score = 0.935589
+
+score:
+Precision = 0.892201   Recall = 0.937779   F-Score = 0.914422
+score (use Viterbi algorithm):
+Precision = 0.928904   Recall = 0.939311   F-Score = 0.934078
+
+score:
+Precision = 0.907518   Recall = 0.936650   F-Score = 0.921854
+score (use Viterbi algorithm):
+Precision = 0.931074   Recall = 0.933385   F-Score = 0.932228
+
+score:
+Precision = 0.897142   Recall = 0.936884   F-Score = 0.916583
+score (use Viterbi algorithm):
+Precision = 0.924197   Recall = 0.931450   F-Score = 0.927809
+
+score:
+Precision = 0.888424   Recall = 0.935498   F-Score = 0.911354
+score (use Viterbi algorithm):
+Precision = 0.926530   Recall = 0.937231   F-Score = 0.931850
+
+score:
+Precision = 0.906163   Recall = 0.934917   F-Score = 0.920315
+score (use Viterbi algorithm):
+Precision = 0.929535   Recall = 0.930668   F-Score = 0.930101
+
+score:
+Precision = 0.889919   Recall = 0.935241   F-Score = 0.912017
+score (use Viterbi algorithm):
+Precision = 0.923120   Recall = 0.934525   F-Score = 0.928788
+
+score:
+Precision = 0.900044   Recall = 0.934380   F-Score = 0.916891
+score (use Viterbi algorithm):
+Precision = 0.930974   Recall = 0.935252   F-Score = 0.933108
+
+score:
+Precision = 0.871566   Recall = 0.928242   F-Score = 0.899011
+score (use Viterbi algorithm):
+Precision = 0.924855   Recall = 0.934917   F-Score = 0.929859
+
+score:
+Precision = 0.900608   Recall = 0.934592   F-Score = 0.917285
+score (use Viterbi algorithm):
+Precision = 0.926770   Recall = 0.931216   F-Score = 0.928988
+
+score:
+Precision = 0.881845   Recall = 0.928186   F-Score = 0.904422
+score (use Viterbi algorithm):
+Precision = 0.926744   Recall = 0.931417   F-Score = 0.929074
+
